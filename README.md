@@ -5,7 +5,7 @@
 
 
 ### Others networks | Outras redes
-<div> 
+ 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ranguinerdaniel)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ranguiner.daniel)
