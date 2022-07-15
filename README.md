@@ -2,7 +2,7 @@
 #### would you like some coffee?!
 
 
-- ☕ I’m currently learning: Java language |  Eu estou estudando atualmente: Linguagem Java
+- ☕ I’m currently learning: Java language |  Atualmente eu estou estudando : Linguagem Java
 - 👤 Pronouns: He / him | Ele / dele
 
 <h2 dir="auto"></h2>
