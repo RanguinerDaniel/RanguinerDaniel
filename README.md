@@ -3,7 +3,7 @@
 - ☕ I’m currently learning: Java language |  Eu estou estudando atualmente: Linguagem Java
 - 👤 Pronouns: He / him | Ele / dele
 
-
+<hr/>
 ### 👋 Others networks | Outras redes
  
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ranguinerdaniel)
