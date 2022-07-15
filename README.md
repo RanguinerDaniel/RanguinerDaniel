@@ -1,8 +1,5 @@
 ## 😊 Hi guy, welcome to my profile! 
 #### would you like some coffee?!
-
-<br>
-
 - ☕ I’m currently learning: Java language |  Atualmente eu estou estudando : Linguagem Java
 - 👤 Pronouns: He / him | Ele / dele
 
