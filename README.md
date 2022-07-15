@@ -28,7 +28,6 @@
 ### **Logo design**
 ![Illustrator](	https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
 ### **(en) Integrated development environment and editors | (pt) Ambiente de desenvolvimento integrado e editores** 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![sublimetext3](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
